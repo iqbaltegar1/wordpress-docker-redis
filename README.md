@@ -248,9 +248,7 @@ Project ini berhasil:
 
 ---
 
-## 👨‍💻 Author
 
----
 
 ## 👨‍💻 Author
 
@@ -265,7 +263,7 @@ Project ini berhasil:
             <li><b>NIM:</b> A11.2023.14969</li>
             <li><b>Mata Kuliah:</b> Pemrograman Sisi Server</li>
             <li><b>GitHub:</b> <a href="https://github.com/iqbaltegar1">iqbaltegar1</a></li>
-            <li><b>Email:</b> <a href="mailto:iqbaltegar1@gmail.com">iqbaltegar1@gmail.com</a></li>
+            <li><b>Email:</b> <a href="mailto:111202314969@mhs.dinus.ac.id">111202314969@mhs.dinus.ac.id</a></li>
          </ul>
       </td>
    </tr>
